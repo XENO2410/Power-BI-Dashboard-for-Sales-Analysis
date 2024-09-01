@@ -1,6 +1,7 @@
 # Power BI Sales Dashboard Project
 
-This repository contains an advanced Power BI Sales Dashboard project designed for beginners and intermediate users.
+This repository contains an advanced Power BI Sales Dashboard project.
+![image](https://github.com/user-attachments/assets/f040800e-5137-4588-a91e-4af2cbd0c722)
 
 ## Project Highlights
 

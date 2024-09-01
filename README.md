@@ -2,7 +2,11 @@
 
 This repository contains an advanced Power BI Sales Dashboard project.
 
+## Sales DashBoard
 ![image](https://github.com/user-attachments/assets/f040800e-5137-4588-a91e-4af2cbd0c722)
+
+## Sales Forecast - 15 days
+![image](https://github.com/user-attachments/assets/3dbe58ec-8569-4bf1-8491-c0e55ba0506d)
 
 ## Project Highlights
 
